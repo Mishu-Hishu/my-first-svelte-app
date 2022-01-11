@@ -391,7 +391,7 @@ var app = (function () {
     			add_location(p0, file$1, 5, 0, 71);
     			attr_dev(p1, "class", "p2 svelte-np92sh");
     			add_location(p1, file$1, 6, 0, 120);
-    			if (!src_url_equal(img.src, img_src_value = "/assets/pic.jpg")) attr_dev(img, "src", img_src_value);
+    			if (!src_url_equal(img.src, img_src_value = "assets/pic.jpg")) attr_dev(img, "src", img_src_value);
     			attr_dev(img, "class", "svelte-np92sh");
     			add_location(img, file$1, 7, 0, 146);
     		},
